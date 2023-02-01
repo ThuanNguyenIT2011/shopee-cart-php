@@ -15,5 +15,6 @@
       - Đăng nhập và đăng suất
       - Duyệt đơn hàng
 ## Ảnh chụp màn hinh
-   - Giao diện người dùng
-      - <img src="https://github.com/hocchudong/git-github-for-sysadmin/blob/master/README.md">
+   - Giao diện người dùng: 
+      - ![image](https://user-images.githubusercontent.com/115361329/216118830-5795ae42-41b0-4c4b-8d9f-ddfc8e3697be.png)
+
