@@ -20,16 +20,18 @@
       - Xem sản phẩm <br>
           ![image](https://user-images.githubusercontent.com/115361329/216119655-8152802f-6ea9-4ccc-9b6a-154240b6af7e.png)
           ![image](https://user-images.githubusercontent.com/115361329/216120266-a08a771c-35e0-403e-9699-424bd10acef2.png)
-      - Danh sách mong muốn <br>
+      - Đơn đặt hàng
           ![image](https://user-images.githubusercontent.com/115361329/216120557-bf672ba2-b956-4c68-a141-47ef615621c1.png)
-      - Cập nhập địa chỉ
+      - Danh sách mong muốn <br>
           ![image](https://user-images.githubusercontent.com/115361329/216120821-433b58c7-d9c8-4fd6-af38-7987be7e15d9.png)
-      - Đăng nhập và đăng suất
+      - Cập nhập địa chỉ <br>
           ![image](https://user-images.githubusercontent.com/115361329/216121115-4dd86bba-4dda-43fe-b615-3cac4db8307b.png)
-      ![image](https://user-images.githubusercontent.com/115361329/216121223-dad1705d-08d9-424b-ae5c-77ae906ff6a7.png)
-      ![image](https://user-images.githubusercontent.com/115361329/216121794-8fe302d2-9a28-4795-9be3-c54b85255967.png)
-      ![image](https://user-images.githubusercontent.com/115361329/216121920-f7f1d743-deb2-4079-ab36-6b9696e899a8.png)
-      ![image](https://user-images.githubusercontent.com/115361329/216122103-4e39c257-b49f-493e-b2a8-6ec66c0d6038.png)
-      - Đăng nhập và đăng suất
-          ![image](https://user-images.githubusercontent.com/115361329/216121115-4dd86bba-4dda-43fe-b615-3cac4db8307b.png)
+       - Đăng nhập và đăng suất <br>
+          ![image](https://user-images.githubusercontent.com/115361329/216121223-dad1705d-08d9-424b-ae5c-77ae906ff6a7.png)
+       - Giỏ hàng
+          ![image](https://user-images.githubusercontent.com/115361329/216121794-8fe302d2-9a28-4795-9be3-c54b85255967.png)
+       - Thanh toán
+          ![image](https://user-images.githubusercontent.com/115361329/216121920-f7f1d743-deb2-4079-ab36-6b9696e899a8.png)
+       - Hủy đơn hàng
+          ![image](https://user-images.githubusercontent.com/115361329/216122103-4e39c257-b49f-493e-b2a8-6ec66c0d6038.png)
 
