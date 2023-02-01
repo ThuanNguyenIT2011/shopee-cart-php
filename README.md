@@ -34,4 +34,20 @@
           ![image](https://user-images.githubusercontent.com/115361329/216121920-f7f1d743-deb2-4079-ab36-6b9696e899a8.png)
        - Hủy đơn hàng <br>
           ![image](https://user-images.githubusercontent.com/115361329/216122103-4e39c257-b49f-493e-b2a8-6ec66c0d6038.png)
+  - Giao diện admin
+      ![image](https://user-images.githubusercontent.com/115361329/216125948-ba7ee400-0580-4a6d-8ba0-cdb34a6af574.png)
+      - Đăng Nhập <br>
+        ![image](https://user-images.githubusercontent.com/115361329/216125699-a48bdf7c-6399-4bb9-9993-9b81996590db.png)
+      - Xem danh mục và thêm , xóa, chỉnh sữa danh mục <br>
+        ![image](https://user-images.githubusercontent.com/115361329/216126208-a63be653-c20e-403e-a427-de80a1448289.png)
+        ![image](https://user-images.githubusercontent.com/115361329/216126283-b51a47af-1be5-4ec9-9600-536a5f121f10.png)
+      - Xem, thêm, sữa xóa sản phẩm <br>
+        ![image](https://user-images.githubusercontent.com/115361329/216126459-141e4816-b1c5-4651-a052-5f8017fe3ac5.png)
+        ![image](https://user-images.githubusercontent.com/115361329/216126663-e9f5b240-8344-4975-8f86-2555350223ee.png)
+        ![image](https://user-images.githubusercontent.com/115361329/216126736-caafd74f-a336-405e-a077-ef467156fd5a.png)
+      - Xem và duyệt đơn hàng
+        ![image](https://user-images.githubusercontent.com/115361329/216126959-61719e82-a2b3-468b-bbbd-bcaa7dcb1826.png)
+        ![image](https://user-images.githubusercontent.com/115361329/216127110-8d1fb9f0-5414-440e-92ae-fcc12ce90a4e.png)
 
+
+      
