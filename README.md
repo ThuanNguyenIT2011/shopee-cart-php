@@ -9,11 +9,11 @@
     - Thanh toán giỏ hàng
     - Hủy đơn đặt hàng 
     - Đánh giá sản phẩm
-    - Đăng nhập và đăng suất
+    - Đăng nhập và đăng xuất
    - Admin:
       - Thêm danh mục sản phẩm
       - Xem, thêm sản phẩm, chỉnh sửa và xóa sản phẩm
-      - Đăng nhập và đăng suất
+      - Đăng nhập và đăng xuất
       - Duyệt đơn hàng
 ## Công nghệ
   - HTML/CSS
@@ -42,7 +42,7 @@
           ![image](https://user-images.githubusercontent.com/115361329/216120821-433b58c7-d9c8-4fd6-af38-7987be7e15d9.png)
       - Cập nhập địa chỉ <br>
           ![image](https://user-images.githubusercontent.com/115361329/216121115-4dd86bba-4dda-43fe-b615-3cac4db8307b.png)
-       - Đăng nhập và đăng suất <br>
+       - Đăng nhập và đăng xuất <br>
           ![image](https://user-images.githubusercontent.com/115361329/216121223-dad1705d-08d9-424b-ae5c-77ae906ff6a7.png)
        - Giỏ hàng <br>
           ![image](https://user-images.githubusercontent.com/115361329/216121794-8fe302d2-9a28-4795-9be3-c54b85255967.png)
