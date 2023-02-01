@@ -15,8 +15,9 @@
       - Đăng nhập và đăng suất
       - Duyệt đơn hàng
 ## Ảnh chụp màn hinh
-   - Giao diện người dùng <br> 
-      ![image](https://user-images.githubusercontent.com/115361329/216119655-8152802f-6ea9-4ccc-9b6a-154240b6af7e.png)
+   - Giao diện người dùng <br>
+      - Xem sản phẩm <br>
+          ![image](https://user-images.githubusercontent.com/115361329/216119655-8152802f-6ea9-4ccc-9b6a-154240b6af7e.png)
       ![image](https://user-images.githubusercontent.com/115361329/216120266-a08a771c-35e0-403e-9699-424bd10acef2.png)
       ![image](https://user-images.githubusercontent.com/115361329/216120557-bf672ba2-b956-4c68-a141-47ef615621c1.png)
       ![image](https://user-images.githubusercontent.com/115361329/216120821-433b58c7-d9c8-4fd6-af38-7987be7e15d9.png)
