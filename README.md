@@ -20,6 +20,8 @@
   - PHP thuần
   - Mysql
   - Bootstrap
+## Cấu trúc thư mục
+  
 ## Ảnh chụp màn hinh
    - **Giao diện người dùng** <br>
       - Xem sản phẩm <br>
