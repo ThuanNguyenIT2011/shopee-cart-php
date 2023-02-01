@@ -21,7 +21,16 @@
   - Mysql
   - Bootstrap
 ## Cấu trúc thư mục
-  
+## Thiết lập
+  1. Sử dụng cmd để sao chép repo vào máy tính của bạn
+       - git clone https://github.com/ThuanNguyenIT2011/shopee-cart-php.git
+  2. Cài đặt XAMP
+  3. Sao chép dự án vào C:\xampp\htdocs
+  4. Mở Bảng điều khiển XAMP
+  5. Chạy MySQL, mở myphpadmin, tạo tên cơ ở dữ liệu mới import file shopeecart.sql
+  6. Mở tệp ./config/connect.php, thay đổi cấu hình thành $host, $user, $password, $databasecấu hình XAMP của bạn
+  7. Bắt đầu Apache
+  8. Mở dự án bằng cách kết nối với url:http://localhost:${YOUR_APACHE_PORT}/shopee-cart-php
 ## Ảnh chụp màn hinh
    - **Giao diện người dùng** <br>
       - Xem sản phẩm <br>
