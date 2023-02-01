@@ -15,6 +15,11 @@
       - Xem, thêm sản phẩm, chỉnh sữa và xóa sản phẩm
       - Đăng nhập và đăng suất
       - Duyệt đơn hàng
+## Công nghệ
+  - HTML/CSS
+  - PHP thuần
+  - Mysql
+  - Bootstrap
 ## Ảnh chụp màn hinh
    - Giao diện người dùng <br>
       - Xem sản phẩm <br>
@@ -45,7 +50,7 @@
         ![image](https://user-images.githubusercontent.com/115361329/216126459-141e4816-b1c5-4651-a052-5f8017fe3ac5.png)
         ![image](https://user-images.githubusercontent.com/115361329/216126663-e9f5b240-8344-4975-8f86-2555350223ee.png)
         ![image](https://user-images.githubusercontent.com/115361329/216126736-caafd74f-a336-405e-a077-ef467156fd5a.png)
-      - Xem và duyệt đơn hàng
+      - Xem và duyệt đơn hàng <br>
         ![image](https://user-images.githubusercontent.com/115361329/216126959-61719e82-a2b3-468b-bbbd-bcaa7dcb1826.png)
         ![image](https://user-images.githubusercontent.com/115361329/216127110-8d1fb9f0-5414-440e-92ae-fcc12ce90a4e.png)
 
