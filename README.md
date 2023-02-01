@@ -1,6 +1,6 @@
 # Dự án: Website Shopee Cart
 
--Chức năng
+- Chức năng
   - Sản phẩm trưng bày
   - Xem sản phẩm
   - Thêm vào giỏ hàng
