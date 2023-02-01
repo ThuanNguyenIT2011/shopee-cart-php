@@ -12,7 +12,7 @@
     - Đăng nhập và đăng suất
    - Admin:
       - Thêm danh mục sản phẩm
-      - Xem, thêm sản phẩm, chỉnh sữa và xóa sản phẩm
+      - Xem, thêm sản phẩm, chỉnh sửa và xóa sản phẩm
       - Đăng nhập và đăng suất
       - Duyệt đơn hàng
 ## Công nghệ
@@ -54,10 +54,10 @@
       ![image](https://user-images.githubusercontent.com/115361329/216125948-ba7ee400-0580-4a6d-8ba0-cdb34a6af574.png)
       - Đăng Nhập <br>
         ![image](https://user-images.githubusercontent.com/115361329/216125699-a48bdf7c-6399-4bb9-9993-9b81996590db.png)
-      - Xem danh mục và thêm , xóa, chỉnh sữa danh mục <br>
+      - Xem danh mục và thêm , xóa, chỉnh sửa danh mục <br>
         ![image](https://user-images.githubusercontent.com/115361329/216126208-a63be653-c20e-403e-a427-de80a1448289.png)
         ![image](https://user-images.githubusercontent.com/115361329/216126283-b51a47af-1be5-4ec9-9600-536a5f121f10.png)
-      - Xem, thêm, sữa xóa sản phẩm <br>
+      - Xem, thêm, sửa xóa sản phẩm <br>
         ![image](https://user-images.githubusercontent.com/115361329/216126459-141e4816-b1c5-4651-a052-5f8017fe3ac5.png)
         ![image](https://user-images.githubusercontent.com/115361329/216126663-e9f5b240-8344-4975-8f86-2555350223ee.png)
         ![image](https://user-images.githubusercontent.com/115361329/216126736-caafd74f-a336-405e-a077-ef467156fd5a.png)
