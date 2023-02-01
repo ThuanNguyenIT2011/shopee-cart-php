@@ -21,7 +21,7 @@
   - Mysql
   - Bootstrap
 ## Ảnh chụp màn hinh
-   - Giao diện người dùng <br>
+   - **Giao diện người dùng** <br>
       - Xem sản phẩm <br>
           ![image](https://user-images.githubusercontent.com/115361329/216119655-8152802f-6ea9-4ccc-9b6a-154240b6af7e.png)
           ![image](https://user-images.githubusercontent.com/115361329/216120266-a08a771c-35e0-403e-9699-424bd10acef2.png)
@@ -39,7 +39,7 @@
           ![image](https://user-images.githubusercontent.com/115361329/216121920-f7f1d743-deb2-4079-ab36-6b9696e899a8.png)
        - Hủy đơn hàng <br>
           ![image](https://user-images.githubusercontent.com/115361329/216122103-4e39c257-b49f-493e-b2a8-6ec66c0d6038.png)
-  - Giao diện admin
+  - **Giao diện admin**
       ![image](https://user-images.githubusercontent.com/115361329/216125948-ba7ee400-0580-4a6d-8ba0-cdb34a6af574.png)
       - Đăng Nhập <br>
         ![image](https://user-images.githubusercontent.com/115361329/216125699-a48bdf7c-6399-4bb9-9993-9b81996590db.png)
