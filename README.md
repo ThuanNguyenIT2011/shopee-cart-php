@@ -5,15 +5,15 @@
       - Xem sản phẩm và xem chi tiết
     - Thêm vào giỏ hàng
     - Danh sách mong muốn
-    - Cập nhập địa chỉ
+    - Cập nhật địa chỉ
     - Thanh toán giỏ hàng
     - Hủy đơn đặt hàng 
     - Đánh giá sản phẩm
-    - Đăng nhập và đăng xuất
+    - Đăng nhật và đăng xuất
    - Admin:
       - Thêm danh mục sản phẩm
       - Xem, thêm sản phẩm, chỉnh sửa và xóa sản phẩm
-      - Đăng nhập và đăng xuất
+      - Đăng nhật và đăng xuất
       - Duyệt đơn hàng
 ## Công nghệ
   - HTML/CSS
@@ -40,9 +40,9 @@
           ![image](https://user-images.githubusercontent.com/115361329/216120557-bf672ba2-b956-4c68-a141-47ef615621c1.png)
       - Danh sách mong muốn <br>
           ![image](https://user-images.githubusercontent.com/115361329/216120821-433b58c7-d9c8-4fd6-af38-7987be7e15d9.png)
-      - Cập nhập địa chỉ <br>
+      - Cập nhật địa chỉ <br>
           ![image](https://user-images.githubusercontent.com/115361329/216121115-4dd86bba-4dda-43fe-b615-3cac4db8307b.png)
-       - Đăng nhập và đăng xuất <br>
+       - Đăng nhật và đăng xuất <br>
           ![image](https://user-images.githubusercontent.com/115361329/216121223-dad1705d-08d9-424b-ae5c-77ae906ff6a7.png)
        - Giỏ hàng <br>
           ![image](https://user-images.githubusercontent.com/115361329/216121794-8fe302d2-9a28-4795-9be3-c54b85255967.png)
@@ -52,7 +52,7 @@
           ![image](https://user-images.githubusercontent.com/115361329/216122103-4e39c257-b49f-493e-b2a8-6ec66c0d6038.png)
   - **Giao diện admin**
       ![image](https://user-images.githubusercontent.com/115361329/216125948-ba7ee400-0580-4a6d-8ba0-cdb34a6af574.png)
-      - Đăng Nhập <br>
+      - Đăng Nhật <br>
         ![image](https://user-images.githubusercontent.com/115361329/216125699-a48bdf7c-6399-4bb9-9993-9b81996590db.png)
       - Xem danh mục và thêm, xóa, chỉnh sửa danh mục <br>
         ![image](https://user-images.githubusercontent.com/115361329/216126208-a63be653-c20e-403e-a427-de80a1448289.png)
